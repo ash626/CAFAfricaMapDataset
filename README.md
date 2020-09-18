@@ -1,0 +1,2 @@
+# CAFAfricaMapDataset
+# Date format: yyyymmdd
