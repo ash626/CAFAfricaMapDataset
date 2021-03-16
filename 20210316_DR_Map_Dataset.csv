@@ -1,18 +1,18 @@
 ﻿Country,Status,Implmenting Partner 1,Implementing Partner 2,Implementing Partner 3,Implementing Partner 4,CHWs,Masks need,Face Shields need,Gloves need,N95s need,Gowns need,Masks sent,Face Shields sent,Gloves sent,N95s sent,Gowns sent,Total PPE,PPE need over 6 months ,% of PPE Gap Met 
-Angola,In scope,TBD,,,,"1,445.00","278,678.57","5,573.57","318,864.00",,,139339.2857,2786.785714,166768,, -   ,308894.0714,"603,116.14",0.512163497
+Angola,In scope,TBD,,,,"1,445.00","278,678.57","5,573.57","318,864.00",,,140000,2800,166768,, -   ,309568,"603,116.14",0.513280908
 Benin,In scope,TBD,,,,"15,000.00","1,467,506.25","29,350.13","94,119.71",,, -   , -   , -   ,, -   ,0,"1,590,976.09",0
 Burkina Faso,In scope,Living Goods,,,,"17,668.00","1,728,526.70", -   , -   ,,, -   , -   , -   ,, -   ,0,"1,728,526.70",0
-Côte d'Ivoire,Order arrived,Muso Health,Ministry of Health Côte d'Ivoire,Village Reach,,"11,400.00","1,115,304.75","22,306.10","3,419,100.00",,,"1,120,000.00","22,306.00","3,419,100.00",, -   ,4561406,"4,556,710.85",1.001030381
-DRC,Order arrived,Village Reach,Ministry of Public Health DRC,,,"155,863.00","10,507,992.00","631,232.80","35,794,968.00","8,428,992.00","7,132,224.00","768,000.00","41,685.00","2,223,144.00","486,000.00","973,000.00",4491829,"62,495,408.80",0.071874544
+Côte d'Ivoire,Order arrived,Muso Health,Ministry of Health Côte d'Ivoire,Village Reach,,"11,400.00","1,115,304.75","22,306.10","3,419,100.00",,,"1,120,000.00","21,600.00","1,709,550.00",, -   ,2851150,"4,556,710.85",0.625703516
+DRC,Order arrived,Village Reach,Ministry of Public Health DRC,,,"2,106.00","10,507,992.00","631,232.80","35,794,968.00","8,428,992.00","7,132,224.00","768,000.00","41,685.00","2,223,144.00","486,000.00","973,000.00",4491829,"62,495,408.80",0.071874544
 Ethiopia ,In scope,Ministry of Health Ethiopia,,,,"39,878.00","10,800,000.00", -   ,-,,,5400000, -   ,,, -   ,5400000,"10,800,000.00",0.5
 Ghana,In scope,TBD,,,,"38,001.00","5,237,725.47","160,611.00","2,623.86",,, -   , -   , -   ,, -   ,0,"5,400,960.33",0
 Kenya,In scope,Lwala Community Alliance,Living Goods,Ministry of Health Kenya,,"100,000.00","16,631,919.64","369,598.21","22,175,892.86",,,10928000, -   ,163000,, -   ,11091000,"39,177,410.71",0.28309681
 Lesotho,Order arrived,Partners In Health,,,,"11,300.00", -   ,"18,110.43", -   ,,, -   ,"18,110.00", -   ,, -   ,18110,"18,110.43",0.999976257
 Liberia,Order arrived,Last Mile Health,Village Reach,Ministry of Health and Social Welfare Liberia,,"3,814.00", -   ,"3,073.90", -   ,,, -   ,"3,073.00", -   ,, -   ,3073,"3,073.90",0.999707212
-Madagascar,In scope,Pivot Works,,,,"34,000.00",3278571.43,65571.43,1092857.14,,, -   , -   , -   ,, -   ,0,"4,437,000.00",0
+Madagascar,In scope,Pivot Works,,,,"34,000.00",3278571.43,65571.43,1092857.14,,,1639300,32800,546400,, -   ,2218500,"4,437,000.00",0.5
 Malawi,Order arrived,Village Reach,Last Mile Health,Ministry of Health Malawi,,"10,085.00","1,973,306.74","39,466.13","983,566.86",,,"1,968,000.00","39,466.00","983,567.00",, -   ,2991033,"2,996,339.73",0.998228929
 Mali,Order arrived,Muso Health,,,,"16,040.00","5,482,553.00","22,529.00","3,578,650.00",,,"5,472,000.00","22,529.00","3,578,650.00",, -   ,9073179,"9,083,732.00",0.998838253
-Mozambique,Order arrived,Village Reach,Clinton Health Access Initiative,Ministry of Health Mozambique,,"6,692.00","1,807,920.00","3,737,332.00","40,176.00",,,"1,536,000.00","45,800.00","2,790,720.00",, -   ,4372520,"5,585,428.00",0.782844215
+Mozambique,Order arrived,Village Reach,Clinton Health Access Initiative,Ministry of Health Mozambique,,"6,692.00","1,539,000.00","34,200.00","2,790,720.00",,,"1,536,000.00","45,800.00","1,395,360.00",, -   ,2977160,"4,363,920.00",0.682221489
 Niger,In scope,TBD,,,,"6,308.00","978,337.50","19,566.75","75,832.32",,, -   , -   , -   ,, -   ,0,"1,073,736.57",0
 Nigeria,In scope,TBD,,,,"5,602.00","648,231.43","12,964.63","1,008,000.00",,,324000,6600,504000,, -   ,834600,"1,669,196.06",0.50000118
 Rwanda,Order arrived,Ministry of Health Rwanda,,,,"58,567.00","5,647,532.14","112,950.64","5,856,700.00",,,5647532.143,127200,5856700,, -   ,11631432.14,"11,617,182.78",1.001226576
@@ -20,6 +20,6 @@ Senegal,In scope,TBD,,,,"20,675.00","2,022,712.78","40,454.26","282,087.53",,, -
 Sierra Leone,Order arrived,Partners In Health,Ministry of Health and Sanitation Sierra Leone,,,"18,866.00","2,276,287.59","41,310.21","321,476.64",,,"2,272,000.00","41,310.00","321,477.00",, -   ,2634787,"2,639,074.44",0.9983754
 Tanzania,In scope,TBD,,,,"53,000.00","6,359,193.75","127,183.88","158,621.12",,, -   , -   , -   ,, -   ,0,"6,644,998.75",0
 Togo,Order arrived,Integrate Health,Ministry of Health Togo,,,"11,800.00","1,125,086.00","22,501.00","375,463.00",,,"928,000.00","18,456.00","307,946.00",, -   ,1254402,"1,523,050.00",0.823611832
-Uganda,Order arrived,BRAC,Ministry of Health Uganda,,,"179,175.00","13,069,040.00","111,503.00","5,911,430.00",,,"6,536,000.00","55,752.00","2,955,715.00",, -   ,9547467,"19,091,973.00",0.500077546
+Uganda,Order arrived,BRAC,Ministry of Health Uganda,,,"80,000.00","13,069,040.00","111,503.00","5,911,430.00",,,"6,536,000.00","55,752.00","2,955,715.00",, -   ,9547467,"19,091,973.00",0.500077546
 Zambia,In scope,Ministry of Health Zambia,,,,"43,141.00","4,512,495.00","90,558.83","3,223,621.50",,,2496536,49931,323571,, -   ,2870038,"7,826,675.33",0.366699509
 Zimbabwe,Order arrived,Clinton Health Access Initiative,Ministry of Health and Child Care Zimbabwe,,,"17,400.00","1,484,823.00","20,328.46","498,305.28",,,"1,504,000.00","20,328.00","498,305.00",, -   ,2022633,"2,003,456.74",1.009571587
